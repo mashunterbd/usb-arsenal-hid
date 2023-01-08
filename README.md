@@ -23,7 +23,7 @@ Currently the app only enables the USB Gadget. For the usage of these device end
 * [Authorizer](https://github.com/tejado/Authorizer)
 * [hid-gadget-test](https://github.com/pelya/android-keyboard-gadget)
 
-*If you can't configure it, watch this video*
+#If you can't configure it, watch this video
 In this video you will also get an example of this application working properly.
 Instagram: https://www.instagram.com/reel/CnKVgcDBc_v/?igshid=MDJmNzVkMjY=
 
