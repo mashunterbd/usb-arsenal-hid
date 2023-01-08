@@ -45,3 +45,7 @@ Instagram: https://www.instagram.com/reel/CnKVgcDBc_v/?igshid=MDJmNzVkMjY=
 ## How does it work?
 USB Gadget Tool uses ConfigFS - an userspace API inside the Linux Kernel - for creation of arbitrary USB composite devices.
 https://www.kernel.org/doc/Documentation/filesystems/configfs/configfs.txt
+
+
+## If you want its updated version then you can visit this link:
+https://github.com/tejado/android-usb-gadget < Full credit goes to them for making this software available to us. the
