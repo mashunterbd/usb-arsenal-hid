@@ -12,6 +12,10 @@ Following USB gadgets are integrated:
 * CCID (/dev/ccid_ctrl, /dev/ccid_bulk)
 * UVC camera (/dev/video?)
 
+![Picsart_23-01-10_12-21-12-802](https://user-images.githubusercontent.com/108648096/211476730-58849d1b-265a-4f18-9982-eccd3c7ef4a6.jpg)
+
+
+
 USB Gadget Tool requires root permissions and a Kernel with ConfigFS support.
 Currently the app only enables the USB Gadget. For the usage of these device endpoints (e.g. /dev/hidg0) further apps are required (see Use-Cases).
 
